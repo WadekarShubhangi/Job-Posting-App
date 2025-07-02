@@ -6,6 +6,14 @@ require("dotenv").config();
 const PORT = process.env.PORT || 4000;
 app.use(express.json());
 initializeDatabase();
+const cors = require("cors");
+const corsOptions = {
+  origin: "*",
+  credentials: true,
+  optionSuccessStatus: 200,
+};
+app.use(cors(corsOptions));
+
 // const fs = require("fs");
 // const jsonData = fs.readFileSync("jobs.json", "utf-8");
 // const parsedJobData = JSON.parse(jsonData);
