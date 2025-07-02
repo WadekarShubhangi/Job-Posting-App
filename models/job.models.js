@@ -15,7 +15,7 @@ const jobSchema = new mongoose.Schema({
         required : true,
     },
     salary: {
-        type : String,
+        type : Number,
         required : true,
     },
     jobType: {
@@ -28,7 +28,10 @@ const jobSchema = new mongoose.Schema({
         required : true,
     },
     qualifications: [{type : String}]
+    
       
+},{
+    timestamps : true
 })
 
 const Jobs = mongoose.model("Jobs", jobSchema)

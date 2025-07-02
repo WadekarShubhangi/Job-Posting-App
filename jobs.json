@@ -1,142 +1,142 @@
 [
   {
     "jobTitle": "Frontend Developer",
-    "companyName": "PixelCraft",
-    "location": "New York, NY",
-    "salary": "$80000 - $100000",
-    "jobType": "Full-time (On-site)",
-    "jobDescription": "Join our dynamic frontend team to create responsive and user-friendly web applications.",
-    "qualifications": [
-      "Bachelor’s degree in Computer Science or related field",
-      "2+ years experience with React.js",
-      "Proficient in HTML, CSS, JavaScript",
-      "Understanding of REST APIs"
-    ]
-  },
-  {
-    "jobTitle": "Graphic Designer",
-    "companyName": "Designora",
-    "location": "Remote",
-    "salary": "$45000 - $60000",
-    "jobType": "Part-time (Remote)",
-    "jobDescription": "Create compelling visual designs for web, print, and social media platforms.",
-    "qualifications": [
-      "Proficiency in Adobe Creative Suite",
-      "Portfolio showcasing graphic design work",
-      "Strong typography and layout skills",
-      "Excellent communication and time-management"
-    ]
-  },
-  {
-    "jobTitle": "Data Scientist",
-    "companyName": "NeuralNet Corp",
-    "location": "Boston, MA",
-    "salary": "$110000 - $130000",
-    "jobType": "Full-time (On-site)",
-    "jobDescription": "Analyze large datasets to drive data-driven decisions across products and operations.",
-    "qualifications": [
-      "Master’s in Data Science or related field",
-      "Strong Python and SQL skills",
-      "Experience with machine learning models",
-      "Knowledge of cloud platforms like AWS"
-    ]
-  },
-  {
-    "jobTitle": "HR Coordinator",
-    "companyName": "PeopleFirst",
-    "location": "Denver, CO",
-    "salary": "$50000 - $65000",
-    "jobType": "Full-time (On-site)",
-    "jobDescription": "Assist with HR operations, including recruitment, onboarding, and employee relations.",
-    "qualifications": [
-      "Bachelor’s in Human Resources or similar",
-      "1+ year experience in HR support roles",
-      "Good knowledge of labor laws",
-      "Excellent organizational skills"
-    ]
-  },
-  {
-    "jobTitle": "Mobile App Developer",
-    "companyName": "Appify Labs",
-    "location": "Remote",
-    "salary": "$90000 - $115000",
+    "companyName": "TechNova Solutions",
+    "location": "Pune, India",
+    "salary": 60000,
     "jobType": "Full-time (Remote)",
-    "jobDescription": "Develop and maintain high-quality mobile applications for Android and iOS platforms.",
+    "jobDescription": "Develop user interfaces using React and maintain UI consistency.",
     "qualifications": [
-      "Experience with Flutter or React Native",
-      "Strong problem-solving and debugging skills",
-      "Understanding of mobile app architecture",
-      "Published apps in app stores"
-    ]
-  },
-  {
-    "jobTitle": "Technical Writer",
-    "companyName": "DocuSmart",
-    "location": "Austin, TX",
-    "salary": "$60000 - $75000",
-    "jobType": "Part-time (Remote)",
-    "jobDescription": "Write clear technical documentation, guides, and user manuals for software products.",
-    "qualifications": [
-      "Bachelor’s in English, Communications, or related",
-      "1+ year experience in tech writing",
-      "Ability to explain technical concepts simply",
-      "Proficiency in documentation tools like Confluence"
+      "Proficiency in HTML, CSS, JavaScript",
+      "Experience with React.js",
+      "Good debugging and Git skills",
+      "Knowledge of REST APIs"
     ]
   },
   {
     "jobTitle": "Backend Developer",
-    "companyName": "CodeCraft",
-    "location": "San Jose, CA",
-    "salary": "$95000 - $120000",
+    "companyName": "CodeCrafters",
+    "location": "Bangalore, India",
+    "salary": 70000,
     "jobType": "Full-time (On-site)",
-    "jobDescription": "Develop scalable backend services and APIs using Node.js and MongoDB.",
+    "jobDescription": "Build REST APIs and manage MongoDB databases.",
     "qualifications": [
-      "3+ years experience in backend development",
-      "Strong JavaScript/Node.js skills",
-      "Database knowledge (MongoDB, PostgreSQL)",
-      "Understanding of authentication and security"
+      "Strong in Node.js and Express",
+      "Database experience (MongoDB/PostgreSQL)",
+      "Understanding of authentication systems",
+      "Version control with Git"
     ]
   },
   {
-    "jobTitle": "Marketing Specialist",
-    "companyName": "Brandish",
-    "location": "Los Angeles, CA",
-    "salary": "$55000 - $70000",
-    "jobType": "Full-time (On-site)",
-    "jobDescription": "Plan and execute marketing campaigns across digital and traditional channels.",
-    "qualifications": [
-      "Bachelor’s in Marketing or Business",
-      "2+ years experience in campaign planning",
-      "Knowledge of Google Ads and SEO tools",
-      "Creative thinking and good communication"
-    ]
-  },
-  {
-    "jobTitle": "Product Manager",
-    "companyName": "VisionSoft",
+    "jobTitle": "UI/UX Designer",
+    "companyName": "PixelPerfect",
     "location": "Remote",
-    "salary": "$110000 - $140000",
-    "jobType": "Full-time (Remote)",
-    "jobDescription": "Lead the product lifecycle from ideation to launch and iteration.",
+    "salary": 55000,
+    "jobType": "Part-time (Remote)",
+    "jobDescription": "Design modern, responsive UI for web applications.",
     "qualifications": [
-      "Proven experience in product management",
-      "Strong UX and tech collaboration skills",
-      "Experience with Agile methodologies",
-      "Excellent communication and leadership"
+      "Experience with Figma or Adobe XD",
+      "Understanding of design systems",
+      "Basic knowledge of frontend dev",
+      "Strong portfolio of UI/UX projects"
     ]
   },
   {
-    "jobTitle": "Customer Success Associate",
+    "jobTitle": "Customer Support Executive",
     "companyName": "Helply",
-    "location": "Chicago, IL",
-    "salary": "$45000 - $58000",
+    "location": "Delhi, India",
+    "salary": 40000,
     "jobType": "Full-time (On-site)",
-    "jobDescription": "Support customers with onboarding, queries, and long-term relationship management.",
+    "jobDescription": "Respond to customer queries and resolve product issues.",
     "qualifications": [
-      "Excellent verbal and written communication",
-      "Empathy and problem-solving mindset",
-      "Experience in customer service roles",
-      "Familiarity with CRM systems"
+      "Excellent communication skills",
+      "Empathy and patience",
+      "Prior support experience",
+      "Familiarity with support tools like Zendesk"
+    ]
+  },
+  {
+    "jobTitle": "Data Analyst Intern",
+    "companyName": "InsightEdge",
+    "location": "Mumbai, India",
+    "salary": 20000,
+    "jobType": "Part-time (On-site)",
+    "jobDescription": "Assist in data cleaning, processing and visualization.",
+    "qualifications": [
+      "Basic knowledge of Excel and SQL",
+      "Interest in data science",
+      "Familiarity with Python is a plus",
+      "Strong logical reasoning"
+    ]
+  },
+  {
+    "jobTitle": "HR Executive",
+    "companyName": "PeopleMatter",
+    "location": "Noida, India",
+    "salary": 50000,
+    "jobType": "Full-time (On-site)",
+    "jobDescription": "Manage recruitment and employee onboarding processes.",
+    "qualifications": [
+      "Strong communication and organization skills",
+      "Experience in HR tools",
+      "Knowledge of labor laws",
+      "Problem-solving ability"
+    ]
+  },
+  {
+    "jobTitle": "Content Writer",
+    "companyName": "WriteSphere",
+    "location": "Remote",
+    "salary": 35000,
+    "jobType": "Part-time (Remote)",
+    "jobDescription": "Write SEO-friendly blogs and website content.",
+    "qualifications": [
+      "Excellent written English",
+      "SEO basics",
+      "Ability to research and summarize",
+      "Attention to detail"
+    ]
+  },
+  {
+    "jobTitle": "Mobile App Developer",
+    "companyName": "AppNation",
+    "location": "Chennai, India",
+    "salary": 65000,
+    "jobType": "Full-time (On-site)",
+    "jobDescription": "Develop Android/iOS apps using Flutter.",
+    "qualifications": [
+      "Strong in Flutter/Dart",
+      "Experience with Firebase",
+      "Mobile UI/UX design knowledge",
+      "Team collaboration skills"
+    ]
+  },
+  {
+    "jobTitle": "Marketing Associate",
+    "companyName": "BrandBoost",
+    "location": "Hyderabad, India",
+    "salary": 48000,
+    "jobType": "Full-time (On-site)",
+    "jobDescription": "Support campaign planning and social media marketing.",
+    "qualifications": [
+      "Bachelor's in Marketing or related field",
+      "Good with Canva and Excel",
+      "Knowledge of digital marketing tools",
+      "Creative thinking"
+    ]
+  },
+  {
+    "jobTitle": "DevOps Engineer",
+    "companyName": "InfraCore",
+    "location": "Remote",
+    "salary": 75000,
+    "jobType": "Full-time (Remote)",
+    "jobDescription": "Automate CI/CD pipelines and manage infrastructure.",
+    "qualifications": [
+      "Experience with Docker, Jenkins, AWS",
+      "Knowledge of Linux",
+      "Scripting (Bash/Python)",
+      "Infrastructure as Code (Terraform/Ansible)"
     ]
   }
 ]
