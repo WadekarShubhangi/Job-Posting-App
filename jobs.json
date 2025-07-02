@@ -1,142 +1,92 @@
 [
   {
     "jobTitle": "Frontend Developer",
-    "companyName": "TechNova Solutions",
-    "location": "Pune, India",
-    "salary": 60000,
-    "jobType": "Full-time (Remote)",
-    "jobDescription": "Develop user interfaces using React and maintain UI consistency.",
-    "qualifications": [
-      "Proficiency in HTML, CSS, JavaScript",
-      "Experience with React.js",
-      "Good debugging and Git skills",
-      "Knowledge of REST APIs"
-    ]
+    "companyName": "PixelCraft",
+    "location": "Bangalore, India",
+    "salary": "65000",
+    "jobType": "Full-time (On-site)",
+    "jobDescription": "Develop responsive web interfaces using React. Collaborate with UI/UX team.",
+    "qualifications": "Strong knowledge of React and JavaScript. Familiarity with HTML, CSS, and REST APIs. Good problem-solving skills."
   },
   {
     "jobTitle": "Backend Developer",
-    "companyName": "CodeCrafters",
-    "location": "Bangalore, India",
-    "salary": 70000,
-    "jobType": "Full-time (On-site)",
-    "jobDescription": "Build REST APIs and manage MongoDB databases.",
-    "qualifications": [
-      "Strong in Node.js and Express",
-      "Database experience (MongoDB/PostgreSQL)",
-      "Understanding of authentication systems",
-      "Version control with Git"
-    ]
+    "companyName": "CodeNest",
+    "location": "Hyderabad, India",
+    "salary": "70000",
+    "jobType": "Full-time (Remote)",
+    "jobDescription": "Build and maintain server-side applications. Integrate databases and third-party APIs.",
+    "qualifications": "Proficient in Node.js and Express. Experience with MongoDB or PostgreSQL. Understanding of authentication and security."
+  },
+  {
+    "jobTitle": "Digital Marketing Executive",
+    "companyName": "MarketWise",
+    "location": "Pune, India",
+    "salary": "50000",
+    "jobType": "Part-time (On-site)",
+    "jobDescription": "Manage social media campaigns. Monitor marketing performance metrics.",
+    "qualifications": "Good understanding of SEO and SEM. Experience with Google Analytics and Meta Ads. Excellent communication skills."
+  },
+  {
+    "jobTitle": "Data Analyst",
+    "companyName": "InsightWorks",
+    "location": "Chennai, India",
+    "salary": "72000",
+    "jobType": "Full-time (Remote)",
+    "jobDescription": "Analyze business data and generate reports. Collaborate with business teams for data insights.",
+    "qualifications": "Strong Excel and SQL skills. Knowledge of Power BI or Tableau. Attention to detail and logical thinking."
   },
   {
     "jobTitle": "UI/UX Designer",
-    "companyName": "PixelPerfect",
-    "location": "Remote",
-    "salary": 55000,
-    "jobType": "Part-time (Remote)",
-    "jobDescription": "Design modern, responsive UI for web applications.",
-    "qualifications": [
-      "Experience with Figma or Adobe XD",
-      "Understanding of design systems",
-      "Basic knowledge of frontend dev",
-      "Strong portfolio of UI/UX projects"
-    ]
-  },
-  {
-    "jobTitle": "Customer Support Executive",
-    "companyName": "Helply",
-    "location": "Delhi, India",
-    "salary": 40000,
-    "jobType": "Full-time (On-site)",
-    "jobDescription": "Respond to customer queries and resolve product issues.",
-    "qualifications": [
-      "Excellent communication skills",
-      "Empathy and patience",
-      "Prior support experience",
-      "Familiarity with support tools like Zendesk"
-    ]
-  },
-  {
-    "jobTitle": "Data Analyst Intern",
-    "companyName": "InsightEdge",
+    "companyName": "DesignRoot",
     "location": "Mumbai, India",
-    "salary": 20000,
-    "jobType": "Part-time (On-site)",
-    "jobDescription": "Assist in data cleaning, processing and visualization.",
-    "qualifications": [
-      "Basic knowledge of Excel and SQL",
-      "Interest in data science",
-      "Familiarity with Python is a plus",
-      "Strong logical reasoning"
-    ]
-  },
-  {
-    "jobTitle": "HR Executive",
-    "companyName": "PeopleMatter",
-    "location": "Noida, India",
-    "salary": 50000,
+    "salary": "68000",
     "jobType": "Full-time (On-site)",
-    "jobDescription": "Manage recruitment and employee onboarding processes.",
-    "qualifications": [
-      "Strong communication and organization skills",
-      "Experience in HR tools",
-      "Knowledge of labor laws",
-      "Problem-solving ability"
-    ]
+    "jobDescription": "Design user-centric interfaces. Conduct user research and testing.",
+    "qualifications": "Experience with Figma or Adobe XD. Knowledge of usability principles. Creativity and collaboration skills."
   },
   {
     "jobTitle": "Content Writer",
     "companyName": "WriteSphere",
-    "location": "Remote",
-    "salary": 35000,
+    "location": "Delhi, India",
+    "salary": "48000",
     "jobType": "Part-time (Remote)",
-    "jobDescription": "Write SEO-friendly blogs and website content.",
-    "qualifications": [
-      "Excellent written English",
-      "SEO basics",
-      "Ability to research and summarize",
-      "Attention to detail"
-    ]
+    "jobDescription": "Write SEO-friendly articles and blog posts. Proofread and edit content before publishing.",
+    "qualifications": "Excellent written English. Understanding of SEO basics. Ability to meet deadlines."
   },
   {
-    "jobTitle": "Mobile App Developer",
-    "companyName": "AppNation",
-    "location": "Chennai, India",
-    "salary": 65000,
+    "jobTitle": "HR Coordinator",
+    "companyName": "PeopleFirst",
+    "location": "Kolkata, India",
+    "salary": "54000",
     "jobType": "Full-time (On-site)",
-    "jobDescription": "Develop Android/iOS apps using Flutter.",
-    "qualifications": [
-      "Strong in Flutter/Dart",
-      "Experience with Firebase",
-      "Mobile UI/UX design knowledge",
-      "Team collaboration skills"
-    ]
+    "jobDescription": "Coordinate recruitment and onboarding. Maintain HR records and assist with payroll.",
+    "qualifications": "Degree in Human Resources or related field. Good communication and organizational skills. Basic knowledge of labor laws."
   },
   {
-    "jobTitle": "Marketing Associate",
-    "companyName": "BrandBoost",
-    "location": "Hyderabad, India",
-    "salary": 48000,
-    "jobType": "Full-time (On-site)",
-    "jobDescription": "Support campaign planning and social media marketing.",
-    "qualifications": [
-      "Bachelor's in Marketing or related field",
-      "Good with Canva and Excel",
-      "Knowledge of digital marketing tools",
-      "Creative thinking"
-    ]
-  },
-  {
-    "jobTitle": "DevOps Engineer",
-    "companyName": "InfraCore",
-    "location": "Remote",
-    "salary": 75000,
+    "jobTitle": "Customer Support Executive",
+    "companyName": "HelpDeskPro",
+    "location": "Ahmedabad, India",
+    "salary": "40000",
     "jobType": "Full-time (Remote)",
-    "jobDescription": "Automate CI/CD pipelines and manage infrastructure.",
-    "qualifications": [
-      "Experience with Docker, Jenkins, AWS",
-      "Knowledge of Linux",
-      "Scripting (Bash/Python)",
-      "Infrastructure as Code (Terraform/Ansible)"
-    ]
+    "jobDescription": "Respond to customer queries via chat and email. Provide product guidance and issue resolution.",
+    "qualifications": "Excellent communication skills. Patience and problem-solving abilities. Familiarity with CRM tools."
+  },
+  {
+    "jobTitle": "QA Tester",
+    "companyName": "BugSmashers",
+    "location": "Jaipur, India",
+    "salary": "60000",
+    "jobType": "Full-time (On-site)",
+    "jobDescription": "Test applications for bugs and usability issues. Write test cases and maintain documentation.",
+    "qualifications": "Knowledge of manual and automated testing. Familiarity with tools like Selenium or JIRA. Analytical thinking."
+  },
+  {
+    "jobTitle": "Graphic Designer",
+    "companyName": "CreativeZoom",
+    "location": "Nagpur, India",
+    "salary": "55000",
+    "jobType": "Part-time (Remote)",
+    "jobDescription": "Create graphics for social media and marketing. Collaborate with content and brand teams.",
+    "qualifications": "Proficiency in Photoshop, Illustrator, or Canva. Eye for design and branding. Ability to handle multiple projects."
   }
 ]
